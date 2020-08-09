@@ -1,10 +1,10 @@
 # Neural-Style-Transfer
 
-Neural Style Transfer is the state of the state-of-the-art technique to generate beutiful images by taking a Content Image and mixing it with what is called as a Style Image
+Neural Style Transfer is the state-of-the-art technique to generate beautiful images by taking a Content Image and mixing it with what is called as a Style Image
 
 let's look at an example:
 
-we consider the following image to our content image ("Nivin Pauly is an Indian actor and producer. Known for his work in Malayalam cinema")
+we consider the following image to our content image ("Nivin Pauly  an Indian actor and producer. Known for his work in Malayalam cinema")
 
 ![](Images/name.jpeg)
 
