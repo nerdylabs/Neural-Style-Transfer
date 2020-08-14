@@ -1,6 +1,6 @@
 # Neural-Style-Transfer
 
-Neural Style Transfer is the state-of-the-art technique to generate beautiful images by taking a Content Image and mixing it with what is called as a Style Image
+Neural style transfer is an optimization technique used to take two image and blend them together so the output image looks like the content image, but "painted" in the style of the reference image.Neural Style Transfer is the state-of-the-art technique to generate beautiful images by taking a Content Image and mixing it with what is called as a Style Image
 
 let's look at an example:
 
