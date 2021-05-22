@@ -20,7 +20,7 @@ As you can see it has taken the "content" from the content image and applied a "
 
 If you have a look in the code due to computing restrictions I reduced the image size of the generated image to 356, you can change the same if you have good computational resourses(just change the value of `img_size` variable in the code)
 
-If you want more information we highly recommend you to read the paper 
+If you want more information I highly recommend you to read the paper 
 [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 
 
