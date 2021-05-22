@@ -18,10 +18,10 @@ Using the Neural Style Transfer as explained in the paper we can get a generated
 
 As you can see it has taken the "content" from the content image and applied a "style" to it to generate a new image
 
-If you have a look in the code due to computing restrictions we reduced the image size of the generated image to 356, you can change the same if you have good computational resourses(just change the value of "img_size" variable in the code)
+If you have a look in the code due to computing restrictions I reduced the image size of the generated image to 356, you can change the same if you have good computational resourses(just change the value of "img_size" variable in the code)
 
 If you want more information we highly recommend you to read the paper 
 [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 
 
-Also following [video](https://www.youtube.com/watch?v=imX4kSKDY7s&t=1031s) also helped us alot 
+Also following [video](https://www.youtube.com/watch?v=imX4kSKDY7s&t=1031s) also helped me alot 
